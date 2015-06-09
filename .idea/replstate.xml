@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1433878168679">{:repl-history {:ide [], :local [&quot;10&quot; &quot;(euler-totient-reduce 10)&quot; &quot;(defn -main\n  \&quot;4Clojure: Euler's Totient function\&quot;\n  [&amp; args]\n  (println (euler-totient-reduce 10))\n  (println (euler-totient-filter 50)))&quot; &quot;(-main \&quot;-h\&quot;)&quot; &quot;(-main \&quot;-hh\&quot;)&quot; &quot;(-main \&quot;x\&quot;)&quot; &quot;(-main \&quot;-n\&quot;)&quot; &quot;(-main \&quot;-n\&quot; \&quot;5\&quot;)&quot;], :remote []}}</component>
+</project>
